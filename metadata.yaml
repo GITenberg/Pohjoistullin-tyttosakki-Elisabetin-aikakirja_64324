@@ -1,11 +1,16 @@
 _repo: Pohjoistullin-tyttosakki-Elisabetin-aikakirja_64324
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Wägner, Elin
     gutenberg_agent_id: '52853'
     url: http://www.gutenberg.org/2009/agents/52853
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64324#Pohjoistullin-tyttosakki-Elisabetin-aikakirja
 gutenberg_issued: '2021-01-18'
 gutenberg_type: Text
 identifiers:
